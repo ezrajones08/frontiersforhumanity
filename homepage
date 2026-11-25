@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    background-color: blue;
+    color: white;
+    font-size: 32px;
+    font-family: syntax-ultra-black;
+  }
+</style>
+</head>
+  <body>
+    they say home is where the hate is, my dome is where fate is
+    <img src="https://ezrajones08.github.io/practice/images/image1.jpeg" width="100" height="200">
+    <a href=https://www.desmos.com/scientific/>Visible Text</a>
+  </body>
+</html>
